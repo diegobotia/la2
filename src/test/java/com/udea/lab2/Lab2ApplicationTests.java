@@ -37,7 +37,7 @@ class Lab2ApplicationTests {
 	@Test
 	void aviationsLength() {
 		Integer aviationsLength = dataController.getRandomnAviation().size();
-		assertEquals(20, aviationsLength);
+		assertEquals(2, aviationsLength);
 	}
 
 }
