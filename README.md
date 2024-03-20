@@ -1,5 +1,5 @@
 # la2
-
+[![CI/CD Pipeline](https://github.com/diegobotia/la2/actions/workflows/build.yml/badge.svg)](https://github.com/diegobotia/la2/actions/workflows/build.yml)
 
 Implementation of a Simple App with the next operations:
 
